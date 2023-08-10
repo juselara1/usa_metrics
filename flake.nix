@@ -14,9 +14,9 @@
       };
     in rec {
       devShell = pkgs.mkShell {
-        LD_LIBRARY_PATH = "${pkgs.stdenv.cc.cc.lib}/lib";
+        LD_LIBRARY_PATH = "${pkgs.zlib}/lib:${pkgs.stdenv.cc.cc.lib}/lib/";
         buildInputs = with pkgs; [
-          python311 python311Packages.pip
+          python310 python310Packages.pip
         ];
       };
     }

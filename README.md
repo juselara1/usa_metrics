@@ -31,8 +31,14 @@ En este repositorio encontrará el material relacionado al curso de métricas de
 
 | Sesión | Tema | Notebook | Video |
 | --- | --- | --- | --- |
-| 27-07-23 | Ejemplos numpy | 1_ejemplos_numpy.ipynb | [enlace](https://drive.google.com/file/d/1V3jDpOvXbY3b4dIWcmlNHrM2Ic0Qjcj8/view?usp=sharing) |
+| 27-07-23 | Ejemplos numpy | [1_ejemplos_numpy.ipynb](https://github.com/juselara1/usa_metrics/blob/main/src/1_ejemplos_numpy.ipynb) | [enlace](https://drive.google.com/file/d/1V3jDpOvXbY3b4dIWcmlNHrM2Ic0Qjcj8/view?usp=sharing) |
 | 28-07-23 | Machine learning | - | - |
+| 03-08-23 | Regresión lineal | [3_linear_regression.ipynb](https://github.com/juselara1/usa_metrics/blob/main/src/3_linear_regression.ipynb) | [enlace](https://drive.google.com/file/d/1akpw2LKxPu3sfAcwOaMdH-CF1ZfaHbt5/view?usp=drive_link) |
+| 04-08-23 | Regresión lineal analítica | [4_linear_regression_analytical.ipynb](https://github.com/juselara1/usa_metrics/blob/main/src/4_linear_regression_analytical.ipynb) | [enlace](https://drive.google.com/file/d/1b9dhIO3YZTphiH6hs0xM0y1zuqfHyHQV/view?usp=drive_link) |
+
+## Talleres
+
+- [Taller 1]()
 
 ## Bibliografía
 ---

@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "usa_metrics"
+version = "2023.2.0"
+authors = [{name = "Juan Lara", email = "julara@unal.edu.co"}]
+description = "Métricas de desempeño"
+requires-python = ">3.8"
+dependencies = [
+    "jupytext", "numpy", "matplotlib", "pandas"
+]
+
+[project.optional-dependencies]
+dev = ["black", "asyncmake", "textbook_nvim", "ipython", "PyQt5"]
+
+[tool.setuptools.packages.find]
+where = ["src/"]
