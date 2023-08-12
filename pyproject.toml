@@ -9,7 +9,7 @@ authors = [{name = "Juan Lara", email = "julara@unal.edu.co"}]
 description = "Métricas de desempeño"
 requires-python = ">3.8"
 dependencies = [
-    "jupytext", "numpy", "matplotlib", "pandas"
+    "jupytext", "numpy", "matplotlib", "pandas", "scikit-learn"
 ]
 
 [project.optional-dependencies]
