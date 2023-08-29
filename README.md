@@ -37,6 +37,9 @@ En este repositorio encontrará el material relacionado al curso de métricas de
 | 04-08-23 | Regresión lineal analítica | [4_linear_regression_analytical.ipynb](https://github.com/juselara1/usa_metrics/blob/main/src/4_linear_regression_analytical.ipynb) | [enlace](https://drive.google.com/file/d/1b9dhIO3YZTphiH6hs0xM0y1zuqfHyHQV/view?usp=drive_link) |
 | 10-08-23 | Clasificación | [5_clasificacion.ipynb](https://github.com/juselara1/usa_metrics/blob/main/src/5_clasificacion.ipynb) | [enlace](https://drive.google.com/file/d/1qDApBD9RiKfqzB_psKHkl4PMdZ4MhMP-/view?usp=drive_link) |
 | 11-08-23 | Clasificador Bayesiano | [6_clasificador_bayesiano.ipynb](https://github.com/juselara1/usa_metrics/blob/main/src/6_clasificador_bayesiano.ipynb) | [enlace](https://drive.google.com/file/d/1xMd1KQvipndCJN4kx-UsD44fE9m_fyv0/view?usp=drive_link) |
+| 18-08-23 | K-Means | [7_kmeans.ipynb](https://github.com/juselara1/usa_metrics/blob/main/src/7_kmeans.ipynb) | [enlace]() |
+| 24-08-23 | SVD | [8_svd.ipynb](https://github.com/juselara1/usa_metrics/blob/main/src/8_svd.ipynb) | [enlace](https://drive.google.com/file/d/1y5eKVTMT8dM9b_IWex8PsaUUPldlRYqw/view?usp=drive_link) |
+| 25-08-23 | SVD | [9_pca_examples.ipynb](https://github.com/juselara1/usa_metrics/blob/main/src/9_pca_examples.ipynb) | [enlace](https://drive.google.com/file/d/1LnnQsj5KQ279OWS0SqEUi-I34XSOqIET/view?usp=drive_link) |
 
 ## Talleres
 
